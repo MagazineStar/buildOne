@@ -1,0 +1,73 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.zong{
+    width: 100%;
+    height: 100%;
+}
+.head{
+    /* background-color: blue; */
+    position: relative;
+}
+.logo{
+    width: 11%;
+    margin: 5%;
+}
+.head .head-left{
+    /* height: 200px;
+    width: 1200px; */
+    display: flex;
+    margin-top: -3%;
+}
+.head .head-left div{
+    display: flex;
+    margin-top: 5%;
+    width: 14%;
+}
+.head .head-left div img{
+    width: 11%;
+    height: 29%;
+}
+.head .head-left div h1{
+    font-size: 77px;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+/* .head_beijingtu {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+} */
+/* .head_beijingtu {
+    background-image: url(../imgs/bg-main.jpg);
+    height: 197%;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+} */
+.head-left{
+    /* float: left; */
+}
+.head-right{
+    float: right;
+}
+.section_1{
+    background-color: aqua;
+}
+.section_2{
+    background-color: black;
+}
+.section_3{
+    background-color: brown;
+}
+.section_4{
+    background-color: blueviolet;
+}
+.section_5{
+    background-color: chocolate;
+}
+.footer{
+    background-color: darkturquoise;
+}
